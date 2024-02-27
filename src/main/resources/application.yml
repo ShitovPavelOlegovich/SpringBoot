@@ -1,0 +1,4 @@
+
+logging:
+  level:
+    org.example.springboot_2: debug
